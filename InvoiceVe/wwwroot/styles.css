@@ -1,0 +1,9 @@
+﻿/* styles.css */
+
+.container {
+    max-width: 600px;
+}
+
+.custom-file-label::after {
+    content: "Browse";
+}
